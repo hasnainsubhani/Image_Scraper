@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
-import urllib
+import urllib.request
 import time
 import json
 
@@ -35,5 +35,5 @@ image_src = list(map(lambda a: a.get_attribute('src'),image_link))
 # download the image
 count = 1
 for src in image_src:
-    urllib.urlretrieve(src, f"images\img_{count}.png")
+    urllib.request.urlretrieve(src, f"images\img_{count}.png")
     count = count + 1

@@ -161,3 +161,13 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:57206/devtools/browser/c6619ef9-c6f4-4600-bd30-505e80255181
 1675793182778	Marionette	INFO	Stopped listening on port 57219
 Dynamically enable window occlusion 1
+1675793642637	geckodriver	INFO	Listening on 127.0.0.1:57932
+1675793645843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileW3Z8tO"
+1675793646859	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675793646879	Marionette	INFO	Listening on port 57946
+Read port: 57946
+WebDriver BiDi listening on ws://127.0.0.1:57933
+1675793647218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileW3Z8tO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57933/devtools/browser/c553f55d-fe8c-453c-8008-e28609165bd7

@@ -105,9 +105,9 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:56076/devtools/browser/2718be3b-363e-4495-8fb2-78b8154d5a04
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript warning: https://pagead2.googlesyndication.com/bg/fr2tM3cMqKf7o-hgvg-GAlWS1ShJQQMk61KbxyC8hNw.js line 2 > eval line 6645 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-zprofilev3WNdx"
-1675792500248	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
+1675793933019	Marionette	INFO	Stopped listening on port 56088
+Dynamically enable window occlusion 1
+0
 1675792500253	Marionette	INFO	Listening on port 56302
 Read port: 56302
 WebDriver BiDi listening on ws://127.0.0.1:56289
@@ -171,3 +171,797 @@ WebDriver BiDi listening on ws://127.0.0.1:57933
 1675793647218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileW3Z8tO\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:57933/devtools/browser/c553f55d-fe8c-453c-8008-e28609165bd7
+1675793931486	Marionette	INFO	Stopped listening on port 57946
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1675874842519	geckodriver	INFO	Listening on 127.0.0.1:51293
+1675874845664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilerOg25e"
+1675874848081	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675874848095	Marionette	INFO	Listening on port 51318
+Read port: 51318
+WebDriver BiDi listening on ws://127.0.0.1:51294
+1675874848386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilerOg25e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51294/devtools/browser/5237d207-9eee-45e3-8697-a33dfaefe60a
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51908
+1675875254797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileWNZPda"
+1675875255499	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675875255506	Marionette	INFO	Listening on port 51921
+Read port: 51921
+WebDriver BiDi listening on ws://127.0.0.1:51909
+1675875255735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileWNZPda\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51909/devtools/browser/263b7486-0262-4108-9063-6dcb50b39bed
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52322
+1675875486509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilev8UIPr"
+1675875487272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675875487277	Marionette	INFO	Listening on port 52337
+Read port: 52337
+WebDriver BiDi listening on ws://127.0.0.1:52323
+1675875487470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilev8UIPr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52323/devtools/browser/924b967f-41e4-4a19-9bcc-ad6fd0214324
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52522
+1675875586989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileslYb6D"
+1675875587698	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675875587704	Marionette	INFO	Listening on port 52541
+Read port: 52541
+WebDriver BiDi listening on ws://127.0.0.1:52523
+1675875587912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileslYb6D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52523/devtools/browser/f08965e1-901e-487c-a57e-98f3073aa134
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675876712617	geckodriver	INFO	Listening on 127.0.0.1:53995
+1675876715836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilea4Bqik"
+1675876716584	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675876716591	Marionette	INFO	Listening on port 54010
+Read port: 54010
+WebDriver BiDi listening on ws://127.0.0.1:53996
+1675876716819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilea4Bqik\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53996/devtools/browser/eec4e055-9e0e-4eef-95c6-8c5fc5d7085b
+1675877712858	geckodriver	INFO	Listening on 127.0.0.1:55316
+1675877716059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileDG8ELE"
+1675877716776	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675877716792	Marionette	INFO	Listening on port 55331
+Read port: 55331
+WebDriver BiDi listening on ws://127.0.0.1:55317
+1675877717026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileDG8ELE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55317/devtools/browser/f51948d2-f6eb-45e9-9962-a1830365adde
+1675877924562	Marionette	INFO	Stopped listening on port 55331
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "55478" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilenSgi0b"
+1675877812485	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675877812490	Marionette	INFO	Listening on port 55490
+Read port: 55490
+WebDriver BiDi listening on ws://127.0.0.1:55478
+1675877812677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilenSgi0b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55478/devtools/browser/7d9e487e-2f1d-4658-b3c1-1a49ea29fdf7
+1675877926945	Marionette	INFO	Stopped listening on port 55490
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilejWLv16"
+1675877923480	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675877923487	Marionette	INFO	Listening on port 55679
+Read port: 55679
+WebDriver BiDi listening on ws://127.0.0.1:55666
+1675877923932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilejWLv16\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55666/devtools/browser/1ff3694e-ea53-4e4f-9e59-3a5a3b8457ff
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675880148435	Marionette	INFO	Stopped listening on port 55679
+Dynamically enable window occlusion 1
+able window occlusion 0
+1675878458297	Marionette	INFO	Listening on port 56365
+Read port: 56365
+WebDriver BiDi listening on ws://127.0.0.1:56352
+1675878458479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileyOtHVr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56352/devtools/browser/a9edbc74-b5c1-45d9-9f1a-e895deab85ef
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56548
+1675878584034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofiletxDT47"
+1675878584845	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675878584856	Marionette	INFO	Listening on port 56566
+Read port: 56566
+WebDriver BiDi listening on ws://127.0.0.1:56549
+1675878585129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofiletxDT47\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56549/devtools/browser/f74bb083-33dc-48f2-805f-9b15b84d68a7
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 287: TypeError: target is null
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450959/customhighlighter35, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideAllHighlighters@resource://devtools/client/inspector/shared/highlighters-overlay.js:1854:25\n_onWillNavigate@resource://devtools/client/inspector/inspector.js:571:26\nonResourceAvailable@resource://devtools/client/inspector/inspector.js:351:14\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:874:24\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:717:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450960/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal6442450960/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal6442450960/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal6442450960/thread1, {"value":true,"from":"server0.conn0.windowGlobal6442450960/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal6442450960/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal6442450960/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450960/customhighlighter35, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideAllHighlighters@resource://devtools/client/inspector/shared/highlighters-overlay.js:1854:25\n_onWillNavigate@resource://devtools/client/inspector/inspector.js:571:26\nonResourceAvailable@resource://devtools/client/inspector/inspector.js:351:14\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:874:24\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:717:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450961/customhighlighter35, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideAllHighlighters@resource://devtools/client/inspector/shared/highlighters-overlay.js:1854:25\n_onWillNavigate@resource://devtools/client/inspector/inspector.js:571:26\nonResourceAvailable@resource://devtools/client/inspector/inspector.js:351:14\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:874:24\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:717:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450962/customhighlighter35, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideAllHighlighters@resource://devtools/client/inspector/shared/highlighters-overlay.js:1854:25\n_onWillNavigate@resource://devtools/client/inspector/inspector.js:571:26\nonResourceAvailable@resource://devtools/client/inspector/inspector.js:351:14\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:874:24\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:717:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450963/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal6442450963/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal6442450963/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal6442450963/thread1, {"value":true,"from":"server0.conn0.windowGlobal6442450963/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal6442450963/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal6442450963/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450964/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal6442450964/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal6442450964/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal6442450964/thread1, {"value":true,"from":"server0.conn0.windowGlobal6442450964/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal6442450964/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal6442450964/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450965/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450965/customhighlighter35, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideAllHighlighters@resource://devtools/client/inspector/shared/highlighters-overlay.js:1854:25\n_onWillNavigate@resource://devtools/client/inspector/inspector.js:571:26\nonResourceAvailable@resource://devtools/client/inspector/inspector.js:351:14\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:874:24\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:717:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450966/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal6442450966/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal6442450966/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal6442450966/thread1, {"value":true,"from":"server0.conn0.windowGlobal6442450966/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal6442450966/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal6442450966/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450967/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450968/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal6442450968/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal6442450968/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal6442450968/thread1, {"value":true,"from":"server0.conn0.windowGlobal6442450968/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal6442450968/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal6442450968/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934593/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934593/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934593/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934593/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934593/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934593/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934593/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934594/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934594/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934594/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934594/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934594/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934594/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934594/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934594/customhighlighter35, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideAllHighlighters@resource://devtools/client/inspector/shared/highlighters-overlay.js:1854:25\n_onWillNavigate@resource://devtools/client/inspector/inspector.js:571:26\nonResourceAvailable@resource://devtools/client/inspector/inspector.js:351:14\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:874:24\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:717:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:8589934594"
+console.error: "Unable to find target with innerWindowId:8589934594"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934595/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934595/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934595/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934595/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934595/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934595/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934595/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934595"
+console.error: "Unable to find target with innerWindowId:8589934595"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934596/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:8589934596"
+console.error: "Unable to find target with innerWindowId:8589934596"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934597/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934597/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934597/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934597/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934597/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934597/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934597/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934597"
+console.error: "Unable to find target with innerWindowId:8589934597"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934598/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934598/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934598/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934598/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934598/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934598/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934598/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934598"
+console.error: "Unable to find target with innerWindowId:8589934598"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934599/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934599/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934599/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934599/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934599/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934599/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934599/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934599"
+console.error: "Unable to find target with innerWindowId:8589934599"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934600/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934600/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934600/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934600/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934600/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934600/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934600/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934600"
+console.error: "Unable to find target with innerWindowId:8589934600"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934601/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:8589934601"
+console.error: "Unable to find target with innerWindowId:8589934601"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934602/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934602/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934602/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934602/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934602/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934602/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934602/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934602"
+console.error: "Unable to find target with innerWindowId:8589934602"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934603/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934603/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934603/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934603/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934603/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934603/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934603/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934603"
+console.error: "Unable to find target with innerWindowId:8589934603"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934604/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934604/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934604/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934604/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934604/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934604/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934604/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934604"
+console.error: "Unable to find target with innerWindowId:8589934604"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934605/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934605/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934605/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934605/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934605/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934605/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934605/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934605"
+console.error: "Unable to find target with innerWindowId:8589934605"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934606/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934606/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934606/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934606/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934606/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934606/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934606/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934606"
+console.error: "Unable to find target with innerWindowId:8589934606"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934607/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934607/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934607/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934607/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934607/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934607/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934607/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934607"
+console.error: "Unable to find target with innerWindowId:8589934607"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934608/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:8589934608"
+console.error: "Unable to find target with innerWindowId:8589934608"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934609/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934609/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934609/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934609/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934609/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934609/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934609/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934609"
+console.error: "Unable to find target with innerWindowId:8589934609"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934610/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934610/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934610/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934610/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934610/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934610/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934610/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934610"
+console.error: "Unable to find target with innerWindowId:8589934610"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934611/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934611/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934611/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934611/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934611/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934611/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934611/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934611"
+console.error: "Unable to find target with innerWindowId:8589934611"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934612/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934612/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934612/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934612/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934612/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934612/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934612/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934610"
+console.error: "Unable to find target with innerWindowId:8589934610"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934613/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934613/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934613/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934613/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934613/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934613/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934613/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934613"
+console.error: "Unable to find target with innerWindowId:8589934613"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934614/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:8589934614"
+console.error: "Unable to find target with innerWindowId:8589934614"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934615/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934615/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934615/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934615/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934615/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934615/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934615/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934615"
+console.error: "Unable to find target with innerWindowId:8589934615"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934616/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934616/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934616/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934616/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934616/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934616/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934616/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934616"
+console.error: "Unable to find target with innerWindowId:8589934616"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934617/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934617/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934617/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934617/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934617/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934617/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934617/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934617"
+console.error: "Unable to find target with innerWindowId:8589934617"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934618/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934618/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934618/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934618/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934618/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934618/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934618/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934618"
+console.error: "Unable to find target with innerWindowId:8589934618"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934619/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934619/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934619/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934619/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934619/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934619/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934619/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934619"
+console.error: "Unable to find target with innerWindowId:8589934619"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934620/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:8589934620"
+console.error: "Unable to find target with innerWindowId:8589934620"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934621/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934621/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934621/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934621/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934621/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934621/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934621/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934621"
+console.error: "Unable to find target with innerWindowId:8589934621"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934622/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934622/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934622/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934622/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934622/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934622/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934622/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934622"
+console.error: "Unable to find target with innerWindowId:8589934622"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934623/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934623/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934623/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934623/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934623/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934623/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934623/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934623"
+console.error: "Unable to find target with innerWindowId:8589934623"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934624/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:8589934624"
+console.error: "Unable to find target with innerWindowId:8589934624"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934625/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934625/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934625/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934625/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934625/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934625/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934625/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934625"
+console.error: "Unable to find target with innerWindowId:8589934625"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934626/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934626/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934626/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934626/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934626/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934626/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934626/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934626"
+console.error: "Unable to find target with innerWindowId:8589934626"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934627/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934627/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934627/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934627/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934627/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934627/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934627/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:8589934627"
+console.error: "Unable to find target with innerWindowId:8589934627"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934628/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934628/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934628/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal8589934628/thread1, {"value":true,"from":"server0.conn0.windowGlobal8589934628/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal8589934628/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal8589934628/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418241/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418241/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418241/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418241/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418241/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418241/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418241/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418242/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418242/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418242/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418242/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418242/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418242/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418242/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418243/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418243/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418243/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418243/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418243/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418243/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418243/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418244/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418244/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418244/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418244/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418244/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418244/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418244/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418245/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418245/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418245/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418245/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418245/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418245/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418245/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418246/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418246/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418246/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418246/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418246/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418246/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418246/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418250/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418250/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418250/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418250/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418250/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418250/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418250/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418252/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418252/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418252/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418252/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418252/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418252/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418252/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418253/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418255/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418255/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418255/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418255/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418255/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418255/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418255/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418256/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418256/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418256/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418256/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418256/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418256/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418256/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418257/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418257/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418257/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418257/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418257/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418257/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418257/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418258/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418258/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418258/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418258/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418258/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418258/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418258/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418259/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418259/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418259/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.windowGlobal10737418259/thread1, {"value":true,"from":"server0.conn0.windowGlobal10737418259/thread1"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:362:24
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 362, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.windowGlobal10737418259/thread1, {\"value\":true,\"from\":\"server0.conn0.windowGlobal10737418259/thread1\"}", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Unable to find target with innerWindowId:10737418260"
+console.error: "Unable to find target with innerWindowId:10737418260"
+console.error: "Unable to find target with innerWindowId:10737418262"
+console.error: "Unable to find target with innerWindowId:10737418262"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58299
+1675879300831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileeF2m2L"
+1675879301713	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675879301719	Marionette	INFO	Listening on port 58313
+Read port: 58313
+WebDriver BiDi listening on ws://127.0.0.1:58300
+1675879302000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileeF2m2L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58300/devtools/browser/8661769a-66ac-4c24-8b5d-bf0a3aa12dcd
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58439
+1675879375726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileUNrmoI"
+1675879376431	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675879376449	Marionette	INFO	Listening on port 58454
+Read port: 58454
+WebDriver BiDi listening on ws://127.0.0.1:58440
+1675879376661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileUNrmoI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58440/devtools/browser/671f6c7b-c7e9-42e0-9d41-39b99b9ed554
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59193
+1675879901824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilepBhFhh"
+1675879902311	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675879902316	Marionette	INFO	Listening on port 59208
+Read port: 59208
+WebDriver BiDi listening on ws://127.0.0.1:59194
+1675879902509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilepBhFhh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59194/devtools/browser/fd9263e3-315a-405b-992a-c44b409c2842
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59377
+1675880005687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59378" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile59jPDv"
+1675880006353	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675880006359	Marionette	INFO	Listening on port 59392
+Read port: 59392
+WebDriver BiDi listening on ws://127.0.0.1:59378
+1675880006549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile59jPDv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59378/devtools/browser/e5a0f9de-4702-4d26-b45f-f7a3cfa64ead
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59604
+1675880137685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile7pepHt"
+1675880138396	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675880138403	Marionette	INFO	Listening on port 59618
+Read port: 59618
+WebDriver BiDi listening on ws://127.0.0.1:59605
+1675880138655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile7pepHt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59605/devtools/browser/c1618548-d529-4baf-99d7-d27ed39a5e83
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+1675880510715	geckodriver	INFO	Listening on 127.0.0.1:60155
+1675880513929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60156" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileRjNtvV"
+1675880514656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675880514661	Marionette	INFO	Listening on port 60168
+Read port: 60168
+WebDriver BiDi listening on ws://127.0.0.1:60156
+1675880514865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileRjNtvV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60156/devtools/browser/8e11074b-218b-4ce8-96f7-be56f6453802
+1675880706358	geckodriver	INFO	Listening on 127.0.0.1:60456
+1675880709558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilesNx7zG"
+1675880710292	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675880710298	Marionette	INFO	Listening on port 60470
+Read port: 60470
+WebDriver BiDi listening on ws://127.0.0.1:60457
+1675880710516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilesNx7zG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60457/devtools/browser/dc72a135-4b83-409a-9e82-5facb3cf6303

@@ -292,8 +292,10 @@ WebDriver BiDi listening on ws://127.0.0.1:56352
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileyOtHVr\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:56352/devtools/browser/a9edbc74-b5c1-45d9-9f1a-e895deab85ef
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:56548
-1675878584034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofiletxDT47"
+1675881194373	Marionette	INFO	Stopped listening on port 56365
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofiletxDT47"
 1675878584845	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675878584856	Marionette	INFO	Listening on port 56566
@@ -875,8 +877,12 @@ console.error: "Unable to find target with innerWindowId:10737418260"
 console.error: "Unable to find target with innerWindowId:10737418262"
 console.error: "Unable to find target with innerWindowId:10737418262"
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:58299
-1675879300831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileeF2m2L"
+1675881197398	Marionette	INFO	Stopped listening on port 56566
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileeF2m2L"
 1675879301713	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675879301719	Marionette	INFO	Listening on port 58313
@@ -886,8 +892,10 @@ WebDriver BiDi listening on ws://127.0.0.1:58300
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileeF2m2L\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:58300/devtools/browser/8661769a-66ac-4c24-8b5d-bf0a3aa12dcd
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:58439
-1675879375726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileUNrmoI"
+1675881193439	Marionette	INFO	Stopped listening on port 58313
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileUNrmoI"
 1675879376431	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675879376449	Marionette	INFO	Listening on port 58454
@@ -897,8 +905,10 @@ WebDriver BiDi listening on ws://127.0.0.1:58440
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileUNrmoI\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:58440/devtools/browser/671f6c7b-c7e9-42e0-9d41-39b99b9ed554
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:59193
-1675879901824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilepBhFhh"
+1675881194738	Marionette	INFO	Stopped listening on port 58454
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+ote-debugging-port" "59194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilepBhFhh"
 1675879902311	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675879902316	Marionette	INFO	Listening on port 59208
@@ -908,8 +918,10 @@ WebDriver BiDi listening on ws://127.0.0.1:59194
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilepBhFhh\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:59194/devtools/browser/fd9263e3-315a-405b-992a-c44b409c2842
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:59377
-1675880005687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59378" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile59jPDv"
+1675881193333	Marionette	INFO	Stopped listening on port 59208
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile59jPDv"
 1675880006353	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675880006359	Marionette	INFO	Listening on port 59392
@@ -919,8 +931,10 @@ WebDriver BiDi listening on ws://127.0.0.1:59378
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile59jPDv\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:59378/devtools/browser/e5a0f9de-4702-4d26-b45f-f7a3cfa64ead
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:59604
-1675880137685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile7pepHt"
+1675881194647	Marionette	INFO	Stopped listening on port 59392
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile7pepHt"
 1675880138396	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675880138403	Marionette	INFO	Listening on port 59618
@@ -945,8 +959,9 @@ emit@resource://devtools/shared/event-emitter.js:186:18
 emit@resource://devtools/shared/event-emitter.js:330:18
 getMutations@resource://devtools/client/fronts/walker.js:313:10
 
-1675880510715	geckodriver	INFO	Listening on 127.0.0.1:60155
-1675880513929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60156" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileRjNtvV"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675881198232	Marionette	INFO	Stopped listening on port 59618
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60156" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileRjNtvV"
 1675880514656	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675880514661	Marionette	INFO	Listening on port 60168
@@ -955,8 +970,10 @@ WebDriver BiDi listening on ws://127.0.0.1:60156
 1675880514865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileRjNtvV\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:60156/devtools/browser/8e11074b-218b-4ce8-96f7-be56f6453802
-1675880706358	geckodriver	INFO	Listening on 127.0.0.1:60456
-1675880709558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilesNx7zG"
+1675881193213	Marionette	INFO	Stopped listening on port 60168
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilesNx7zG"
 1675880710292	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675880710298	Marionette	INFO	Listening on port 60470
@@ -965,3 +982,292 @@ WebDriver BiDi listening on ws://127.0.0.1:60457
 1675880710516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilesNx7zG\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:60457/devtools/browser/dc72a135-4b83-409a-9e82-5facb3cf6303
+1675881193089	Marionette	INFO	Stopped listening on port 60470
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 227: TypeError: this._builder is undefined
+1675908026486	geckodriver	INFO	Listening on 127.0.0.1:59793
+1675908029627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59794" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileBuqTPy"
+1675908032264	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675908032284	Marionette	INFO	Listening on port 59809
+Read port: 59809
+WebDriver BiDi listening on ws://127.0.0.1:59794
+1675908032615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileBuqTPy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59794/devtools/browser/0b515005-7b5f-44d2-a05c-38b77385dc0b
+1675908175572	Marionette	INFO	Stopped listening on port 59809
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileJoQqZJ"
+1675908172418	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675908172424	Marionette	INFO	Listening on port 60039
+Read port: 60039
+WebDriver BiDi listening on ws://127.0.0.1:60025
+1675908172622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileJoQqZJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60025/devtools/browser/facf6579-a3ba-4bb9-9f2b-2209529b14a3
+1675908365694	Marionette	INFO	Stopped listening on port 60039
+Dynamically enable window occlusion 1
+1675908533796	geckodriver	INFO	Listening on 127.0.0.1:63000
+1675908537047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilebDwn9o"
+1675908542940	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675908542958	Marionette	INFO	Listening on port 63244
+Read port: 63244
+WebDriver BiDi listening on ws://127.0.0.1:63001
+1675908543396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilebDwn9o\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:63001/devtools/browser/32a9b314-85e9-4394-bc50-4334d0b4e9b1
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675911258906	Marionette	INFO	Stopped listening on port 63244
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilexRRest"
+1675909544162	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675909544178	Marionette	INFO	Listening on port 65508
+Read port: 65508
+WebDriver BiDi listening on ws://127.0.0.1:65495
+1675909544507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilexRRest\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65495/devtools/browser/b9bcfc9a-20fd-4b83-9ac9-1e9ccfbea7da
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675911257679	Marionette	INFO	Stopped listening on port 65508
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51536" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileqtKtRb"
+1675911224302	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675911224311	Marionette	INFO	Listening on port 51553
+Read port: 51553
+WebDriver BiDi listening on ws://127.0.0.1:51536
+1675911224587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileqtKtRb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51536/devtools/browser/96502caa-e559-49d0-b361-fc0915a0d2c9
+1675911255077	Marionette	INFO	Stopped listening on port 51553
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1675911268354	geckodriver	INFO	Listening on 127.0.0.1:51665
+1675911271492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilekUzyUa"
+1675911272171	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675911272176	Marionette	INFO	Listening on port 51680
+Read port: 51680
+WebDriver BiDi listening on ws://127.0.0.1:51666
+1675911272358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilekUzyUa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51666/devtools/browser/6bdbd8fe-9831-4a49-b743-5a9426caaf3c
+1675912662419	Marionette	INFO	Stopped listening on port 51680
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile5INjhU"
+1675912288825	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675912288835	Marionette	INFO	Listening on port 53260
+Read port: 53260
+WebDriver BiDi listening on ws://127.0.0.1:53247
+1675912289113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile5INjhU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53247/devtools/browser/44367f5f-b5b0-4781-9507-ddab849e0695
+1675912788450	Marionette	INFO	Stopped listening on port 53260
+Dynamically enable window occlusion 1
+1675912986646	geckodriver	INFO	Listening on 127.0.0.1:54244
+1675912989758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileXCHZDW"
+1675912991131	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675912991149	Marionette	INFO	Listening on port 54259
+Read port: 54259
+WebDriver BiDi listening on ws://127.0.0.1:54245
+1675912991728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileXCHZDW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54245/devtools/browser/b4a93ad3-fc30-49d2-9ba3-2c9ffda78f56
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675913803478	Marionette	INFO	Stopped listening on port 54259
+Dynamically enable window occlusion 1
+1675913810514	geckodriver	INFO	Listening on 127.0.0.1:55389
+1675913813647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile1yuiUJ"
+1675913814347	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675913814352	Marionette	INFO	Listening on port 55405
+Read port: 55405
+WebDriver BiDi listening on ws://127.0.0.1:55390
+1675913814559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile1yuiUJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55390/devtools/browser/3570f6de-e7ef-4f7a-8265-fdf34ff7d1a9
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675919844641	Marionette	INFO	Stopped listening on port 55405
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile3ABEzp"
+1675919836894	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675919836913	Marionette	INFO	Listening on port 62652
+Read port: 62652
+WebDriver BiDi listening on ws://127.0.0.1:62639
+1675919837174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile3ABEzp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62639/devtools/browser/6df0704f-13f5-42e6-a324-d087b9e70306
+1675919982977	Marionette	INFO	Stopped listening on port 62652
+Dynamically enable window occlusion 1
+1675920443456	geckodriver	INFO	Listening on 127.0.0.1:63509
+1675920446599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63510" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilePfE8v5"
+1675920447000	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675920447005	Marionette	INFO	Listening on port 63523
+Read port: 63523
+WebDriver BiDi listening on ws://127.0.0.1:63510
+1675920447187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilePfE8v5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63510/devtools/browser/2b3656cf-80e0-40c2-8fc7-032946f2c7b1
+1675920485416	Marionette	INFO	Stopped listening on port 63523
+Dynamically enable window occlusion 1
+1675922079196	geckodriver	INFO	Listening on 127.0.0.1:65449
+1675922082298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65450" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileHcYrPx"
+1675922083283	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675922083290	Marionette	INFO	Listening on port 65466
+Read port: 65466
+WebDriver BiDi listening on ws://127.0.0.1:65450
+1675922083539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileHcYrPx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65450/devtools/browser/2db395e1-aadf-44f2-9456-a6767608c4c7
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675923593509	Marionette	INFO	Stopped listening on port 65466
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "49747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQ0QRXW"
+1675922588544	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675922588549	Marionette	INFO	Listening on port 49763
+Read port: 49763
+WebDriver BiDi listening on ws://127.0.0.1:49747
+1675922588740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQ0QRXW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49747/devtools/browser/0891360e-1d10-4895-817a-679cc43128e8
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675923591590	Marionette	INFO	Stopped listening on port 49763
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "49967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQ5HVSj"
+1675922734809	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675922734813	Marionette	INFO	Listening on port 49980
+Read port: 49980
+WebDriver BiDi listening on ws://127.0.0.1:49967
+1675922735012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQ5HVSj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49967/devtools/browser/3800af3d-6b36-49e7-ba3f-c5996f6039f1
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675923664657	Marionette	INFO	Stopped listening on port 49980
+Dynamically enable window occlusion 1
